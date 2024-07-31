@@ -1,0 +1,7 @@
+C:\Users\liamf\source\repos\WaveSessionLogin\bin\Debug\WaveSessionLogin.exe.config
+C:\Users\liamf\source\repos\WaveSessionLogin\bin\Debug\WaveSessionLogin.exe
+C:\Users\liamf\source\repos\WaveSessionLogin\bin\Debug\WaveSessionLogin.pdb
+C:\Users\liamf\source\repos\WaveSessionLogin\obj\Debug\WaveSessionLogin.csproj.AssemblyReference.cache
+C:\Users\liamf\source\repos\WaveSessionLogin\obj\Debug\WaveSessionLogin.csproj.CoreCompileInputs.cache
+C:\Users\liamf\source\repos\WaveSessionLogin\obj\Debug\WaveSessionLogin.exe
+C:\Users\liamf\source\repos\WaveSessionLogin\obj\Debug\WaveSessionLogin.pdb
